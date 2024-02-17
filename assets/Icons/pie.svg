@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg11062"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="pie.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11064"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.27836617"
+     inkscape:cx="136.51084"
+     inkscape:cy="337.68471"
+     inkscape:window-width="1171"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11059" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#dfaa79;fill-opacity:1;stroke:none;stroke-width:0.206811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.57605,71.652778 c -6.03786,0.366603 -8.81886,4.903726 -15.91976,6.973302 -1.58077,0.460718 -4.31852,-3.862321 -9.108787,1.753847 -6.807258,-1.489293 -14.052558,1.244905 -23.33473,8.96809 -3.369608,2.803665 -10.99693,-0.315376 -19.6525,8.593709 -9.237431,-0.670778 -17.862362,4.725584 -26.067325,8.897484 -5.785981,2.9364 -13.777923,8.00764 -13.256141,16.32917 0.848012,13.52433 -3.8622997,11.78279 -5.1799197,18.75659 5.4064047,11.66658 15.8692957,8.1637 24.2606377,10.87546 l 33.910893,36.40578 104.123762,16.58054 -0.41829,-40.01943 -37.8546,-72.180388 z"
+       id="path11168"
+       sodipodi:nodetypes="cscsccsccccccc"
+       inkscape:export-filename="/Users/ksergi/Desktop/pie.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#c77e3f;fill-opacity:0.886792;stroke:none;stroke-width:0.206811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 132.07929,93.586934 C 101.41861,96.875695 68.665333,107.46351 33.572381,140.67011 l 35.554384,40.57382 101.225415,16.31319 -0.41829,-31.7898 z"
+       id="path15011"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/Users/ksergi/Desktop/pie.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#c47a3a;fill-opacity:1;stroke:none;stroke-width:0.206811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.572381,140.67011 35.554384,40.57382 101.225415,16.31319 -0.41829,-31.7898 z"
+       id="path23254"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/ksergi/Desktop/pie.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#cccccc;stroke:none;stroke-width:0.109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.41005,113.241 c 4.51835,-12.93154 -7.03981,-22.737994 -26.22375,-12.81606 -5.137185,2.65696 -10.285145,-0.39664 -11.478945,-3.694921 -5.06737,8.288961 -2.58851,12.586971 8.4454,16.510981 -62.50033,26.47616 82.251775,34.50946 29.257295,0 z"
+       id="path40160"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/Users/ksergi/Desktop/pie.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path40160-4"
+       style="fill:#ffffff;stroke:none;stroke-width:0.411968px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 433.56836 366.2793 C 432.65987 366.27193 431.75021 366.28256 430.84375 366.31055 C 420.51252 366.62652 410.26941 369.05803 400.98633 372.28711 C 392.83139 375.07084 385.39287 378.71921 378.01758 382.36914 C 370.93023 385.5351 361.59263 386.46566 353.75 384.10156 C 345.44645 381.75572 339.00325 376.89215 335.17383 371.35352 C 331.43482 378.28325 328.48709 385.68293 328.78711 393.23242 C 328.95341 399.23518 331.91896 405.03008 337.17969 409.79883 C 345.71976 417.45456 358.09273 422.41742 370.25586 426.79688 C 371.22591 427.15177 372.19679 427.50725 373.16602 427.86328 C 355.80464 435.19428 338.70217 443.07929 324.91797 453.55273 C 317.72557 459.16904 311.13991 465.86893 309.93359 473.55664 C 309.19284 478.66732 311.49953 483.88479 316.0293 487.93164 C 322.84156 494.32097 332.96253 498.51701 343.17969 501.83789 C 359.01678 506.85219 376.113 509.60324 393.2793 511.26562 C 411.7994 512.99782 430.62337 513.22816 449.19336 511.83594 C 465.51215 510.52384 481.79301 507.99328 496.33398 502.55469 C 504.90973 499.22054 513.01959 494.59219 516.97656 488.19141 C 519.95528 483.65495 520.4198 478.50234 519.12891 473.64062 C 517.00663 465.41516 510.83866 458.01322 503.96094 451.27148 C 495.43772 442.98181 485.1526 435.65406 474.49414 428.68359 C 477.18301 421.13467 478.69975 413.55552 478.45117 405.75586 C 478.10723 397.05799 475.54577 388.06787 468.9082 380.48047 C 464.83618 375.78667 459.03136 371.72929 452.01758 369.29297 C 446.29 367.26391 439.92779 366.33088 433.56836 366.2793 z M 476.68555 443.63672 C 480.44401 443.56494 491.68543 447.44928 497.17383 456.6875 C 503.33624 467.06024 499.91265 480.25444 497.98047 481.40234 C 496.04829 482.55024 498.48077 470.78875 492.31836 460.41602 C 486.15595 450.04328 473.73189 444.98774 475.66406 443.83984 C 475.87539 443.71429 476.22398 443.64553 476.68555 443.63672 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pie.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
